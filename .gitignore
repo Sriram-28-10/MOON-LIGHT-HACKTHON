@@ -1,0 +1,21 @@
+# Node dependencies
+node_modules/
+.next/
+out/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+*.db
+*.sqlite3
+
+# Environment & IDE
+.env
+.env.local
+.DS_Store
+.idea/
+.vscode/
